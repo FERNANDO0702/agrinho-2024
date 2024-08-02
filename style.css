@@ -1,0 +1,83 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.cabecalho {
+    background-color: rgb(111, 121, 117);
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 35px 0;
+}
+.cabecalho-imagem {
+    width: 40%;
+}
+.contador{
+
+background-color: rgb(197, 208, 208);
+    color: rgb(24, 22, 22);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 50px 0;
+    font-size: 32px;
+}
+.contador-imagem {
+    width: 50%;
+}
+   
+  
+  .contador-div-conteudo{ 
+    width:90%;
+  }  
+  .objetivos{
+    background-color: rgb(117, 154, 154);
+    color: rgb(24, 22, 22);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 50px 0;
+    font-size: 32px;
+    
+  }
+.fotos{
+    background-color: rgb(204, 216, 216);
+    color: rgb(24, 22, 22);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 50px 0;
+    font-size: 32px;
+}
+
+
+.projeto{
+  background-color: rgb(110, 140, 140);
+  color: rgb(24, 22, 22);
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 50px 0;
+  font-size: 49px;
+}
+
+.contadorfoto{
+  background-color: rgb(204, 216, 216);
+  color: rgb(24, 22, 22);
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 50px 0;
+  font-size: 49px;
+  }
+
+.projeto-imagem{
+  width: 450px;
+}
+
+  .projeto-div-conteudo{
+    text-align: center;
+  }
+
+
